@@ -74,6 +74,8 @@ mpg123 g6.mp3
 
 ## Init
 
+Install NodeJS to your Raspberry. I have use `v6.9.5`. 
+
 Clone project to the Raspberry. Go to the project folder and run:
 
 ```
