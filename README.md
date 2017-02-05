@@ -1,6 +1,6 @@
 # Ukrainian Doorbell
 
-Special Raspberry doorbell for ukrainian programmers.
+Special Raspberry doorbell for ukrainians with social phobia.
 
 ## Setup audio card
 
