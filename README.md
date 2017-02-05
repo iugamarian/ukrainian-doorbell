@@ -82,6 +82,8 @@ npm i
 
 Connect one wire of the button to `GPIO 4` pin and second to the `GND`. That's it!
 
+![Raspberry pinout](https://raw.githubusercontent.com/snipter/ukrainian-doorbell/master/img/gpio.png)
+
 ## Autorun
 
 Run:
